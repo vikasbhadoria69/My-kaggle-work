@@ -17,6 +17,7 @@
 ### Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, matplotlib, seaborn, selenium.   
+You will require google chromedriver also to scrap the data.
 
 
 ### Step 1: Web Scraping
@@ -27,10 +28,10 @@ I have used selenium to scrap the data from Naukri.com, which is the best job hu
 * Location.
 * Key Skills.
 
-## Step 2: Data Cleaning
+### Step 2: Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our EDA. 
 
-## Step 3: EDA
+### Step 3: EDA
 I plotted some really usefull graphs to look at the job opportunities for Data science in India. Below are a few highlights from the Exploratory Data Analysis. 
 
 ![alt text](https://github.com/vikasbhadoria69/My-kaggle-work/blob/master/Analysing%20Data%20Science%20Job%20oppourtinities%20in%20India/Best%20language.png)
@@ -39,4 +40,6 @@ I plotted some really usefull graphs to look at the job opportunities for Data s
 ![alt text](https://github.com/vikasbhadoria69/My-kaggle-work/blob/master/Analysing%20Data%20Science%20Job%20oppourtinities%20in%20India/fw.png)
 
 
-
+#### I have uploaded the dataset and this notebook also on Kaggle. Find it here: 
+Dataset: https://www.kaggle.com/vikasbhadoria/data-scientist-role-in2020
+Notebook: https://www.kaggle.com/vikasbhadoria/exploring-data-science-job-opportunities-in-india
