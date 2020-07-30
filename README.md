@@ -1,4 +1,4 @@
-# My-kaggle-work
+# My-kaggle-work. Following are my projects you can find on kaggle.
 
 1. Used car price predictions using Machine learning. Kindly click on the first repo to see all codes, dataset and explainations.
 
