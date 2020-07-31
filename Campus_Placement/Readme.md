@@ -3,13 +3,13 @@
 ## Are you looking for a job in India after your MBA? Lets find out here what are the important things to keep in mind. 
 
 ### Goal of this project: 
-The objective of this priject is to analyse the Campus Recruitment data from Kaggle and predict the placements. I have presented the notebook in a form of a beautiful story to make things more clear. 
+The objective of this project is to analyse the Campus Recruitment data from Kaggle and predict the placements. I have presented the notebook in a form of a beautiful story to make things more clear. 
 
 ### Steps covered in this project: 
-* I had to do some feature engineering of some features in the data to make the more useful for EDA and building predictive model.
+* I had to do some feature engineering of some features in the data to make them more useful for EDA and building predictive model.
 * In the notebook I plotted some very useful graphs which can give a very good visualizations about campus placements in India.
 * The thrid step was to create a predictive model which can predict which profile will get a job and which will be rejected.
-* For this I used the pairplot to decide which Machine Learning model is going to be the best for my data out of Logistic Regression, Random forest & xgboost, Logistic Regression gave me the best accuracy. I then used RandomizedSearchCV to imporve my predictions to get around 94% accuracy. 
+* For this I used the pairplot to decide which Machine Learning model is going to be the best for my data & out of Logistic Regression, Random forest & xgboost, Logistic Regression gave me the best accuracy. I then used RandomizedSearchCV to imporve my predictions to get around 94% accuracy. 
 
 ### Some of the important graphs to look at: 
 
