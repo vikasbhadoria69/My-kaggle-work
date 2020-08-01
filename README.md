@@ -4,6 +4,8 @@
 
 2. Analysing the campus placements in India after doing MBA. Kindly click on the second repo to see all codes, dataset and explainations.
 
-3. Used car price predictions using Machine learning. Kindly click on the third repo to see all codes, dataset and explainations.
+4. Exploring & predicting the avocado dataset in kaggle. Kindly click on the third repo to see all codes, dataset and explainations.
+
+3. Used car price predictions using Machine learning. Kindly click on the fourth repo to see all codes, dataset and explainations.
 
 
